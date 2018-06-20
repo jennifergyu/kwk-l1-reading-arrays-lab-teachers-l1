@@ -6,6 +6,7 @@ STUDENT_NAMES = [
   "Nicki Minaj",
   "Rihanna"
 ]
+puts STUDENT_NAMES.count 
 
 def first_student_by_index
   # Write a solution that returns the first student in the array student_names
